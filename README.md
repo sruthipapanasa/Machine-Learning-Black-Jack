@@ -1,5 +1,7 @@
 # Machine-Learning-Black-Jack
 Contributors: @sruthipapanasa and @mfrankne
+
+
 Program meant to assist blackjack players by telling them whether they should stand or it based on their current hand.
 
 Neural Network gives you the probability you will win or lose.

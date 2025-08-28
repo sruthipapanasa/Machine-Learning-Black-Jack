@@ -389,6 +389,7 @@ model.save('./blackjackmodel')
 
 '''
 
+
 test_blackjack = "test_blackjack.csv"
 batch_size = 30
 test_dataset = tf.data.experimental.make_csv_dataset(

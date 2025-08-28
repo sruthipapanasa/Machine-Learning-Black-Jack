@@ -7,6 +7,8 @@ import random
 from dicts import hard_hands
 from dicts import sph_dict
 
+
+
 print("TensorFlow version: {}".format(tf.__version__))
 print("Eager execution: {}".format(tf.executing_eagerly()))
 

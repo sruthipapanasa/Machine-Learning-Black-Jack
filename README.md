@@ -1,4 +1,4 @@
-# Machine-Learning-Black-Jack
+# Machine-Learning-Black-Jack 
 Contributors: @sruthipapanasa and @mfrankne
 
 
